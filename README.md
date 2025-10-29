@@ -34,7 +34,9 @@ The main goal of this project is to simplify academic note management and make l
 
 
 📂 Project Structure
+
 Advance-Java-E-Notes/
+
 │
 ├── src/
 │   ├── com.dao/              # Data Access Objects
